@@ -1,0 +1,35 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+#outbox {
+    width: 310px;
+    height: 320px;
+    background-color: rgba(65, 39, 39, 0.295);
+}
+
+img {
+    width: 280px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-width: 1px; /*did not work */
+    border-color: gold; /*did not work */
+}
+
+p {
+    margin: 0px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+#txt1 {
+    width: 280px;
+    height: 25px;
+    margin-left: 60px;
+}
+
+#txt2 {
+    margin-left: 50px;
+}
